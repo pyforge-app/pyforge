@@ -50,6 +50,7 @@ Android → *allow install from this source* · macOS → *right-click → Open*
 - **A proper editor** — syntax highlighting, autocomplete, bracket matching, auto-indent, dark theme, for every language.
 - **Run · Stop · Input** — feed a program standard input, watch output live, and stop a runaway loop with one tap.
 - **A files library** — save, open, rename, delete and share your programs.
+- **Bring your own libraries** *(desktop)* — install Python (`pip`) and Ruby (`gem`) packages from inside the editor; your code can `import` them.
 - **Same app everywhere** — Android in your pocket, the desktop app on Mac, Windows or Linux.
 
 ## How it works
